@@ -1,2 +1,0 @@
-# cedbonhomme.github.io
-Hello
