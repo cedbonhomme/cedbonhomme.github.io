@@ -21,29 +21,29 @@
 &lt;/head&gt;
 &lt;body id=&#34;page-top&#34; class=&#34;index&#34;&gt;
 
-  {{ partial &#34;nav.html&#34; . }}
+  {{ partial &#34;nav0.html&#34; . }}
 
   &lt;!-- {{ partial &#34;header.html&#34; . }} --&gt;
   &lt;div class=&#34;parallax-container hide-on-small-only&#34;&gt;
-    &lt;div class=&#34;parallax&#34;&gt;&lt;img src=&#34;img/parallax1.jpg&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;parallax&#34;&gt;&lt;img src=&#34;../img/parallax1.jpg&#34;&gt;&lt;/div&gt;
   &lt;/div&gt;
 
   &lt;div class=&#34;container&#34;&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/diplome_dut.png&#34;&gt;diplome_dut&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/avispoursuite.png&#34;&gt;avispoursuite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/notepoursuite.png&#34;&gt;notepoursuite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/note_s1.png&#34;&gt;note_s1&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/note_s2.png&#34;&gt;note_s2&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/note_s3.png&#34;&gt;note_s3&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/note_s4.png&#34;&gt;note_s4&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/toeic.png&#34;&gt;toeic&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&#34;../lpro_dawin/diplome_bac.png&#34;&gt;diplome_bac&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/diplome_dut.png&#34;&gt;&lt;h4&gt;diplome_dut&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/avispoursuite.png&#34;&gt;&lt;h4&gt;avispoursuite&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/notepoursuite.png&#34;&gt;&lt;h4&gt;notepoursuite&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/note_s1.png&#34;&gt;&lt;h4&gt;note_s1&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/note_s2.png&#34;&gt;&lt;h4&gt;note_s2&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/note_s3.png&#34;&gt;&lt;h4&gt;note_s3&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/note_s4.png&#34;&gt;&lt;h4&gt;note_s4&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/toeic.png&#34;&gt;&lt;h4&gt;toeic&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a target=&#34;_blank&#34; href=&#34;../lpro_dawin/diplome_bac.png&#34;&gt;&lt;h4&gt;diplome_bac&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 
   &lt;div class=&#34;parallax-container hide-on-small-only&#34;&gt;
-    &lt;div class=&#34;parallax&#34;&gt;&lt;img src=&#34;img/parallax2.jpg&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;parallax&#34;&gt;&lt;img src=&#34;../img/parallax2.jpg&#34;&gt;&lt;/div&gt;
   &lt;/div&gt;
 
 
